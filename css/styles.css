@@ -12,10 +12,19 @@ body {
 }
 
 h1 {
-    font-family: 'Ubuntu', sans-serif;
-  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
   font-weight: 1000;
   line-height: 1;
+}
+
+.feat{
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f8f;
 }
 /* navigation bar */
 .navbar {
@@ -46,3 +55,25 @@ h1 {
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* section-features */
+#features{
+    padding: 7% 15%;
+}
+
+.feat-box{
+    text-align: center;
+}
+.feat-box:hover{
+   font-size: larger;
+}
+
+.f-icon{
+    color: #ef8173;
+    margin-bottom: 10px;
+}
+
+.f-icon:hover{
+    color: #ff4c68;
+}
+
