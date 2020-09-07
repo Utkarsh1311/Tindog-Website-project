@@ -17,23 +17,23 @@ h1 {
   font-weight: 1000;
   line-height: 1;
 }
-h2{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3rem;
-    font-weight: bold;
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
 }
 
-.feat{
-    font-family: 'Montserrat' , sans-serif;
-    font-weight: bold;
+.feat {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
-p{
-    color: #8f8f8f;
+p {
+  color: #8f8f8f;
 }
 /* navigation bar */
 .navbar {
-    padding: 0 0 4.5rem;
+  padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -42,55 +42,55 @@ p{
   font-weight: bold;
 }
 
-.nav-item{
-    padding: 0 18px;
+.nav-item {
+  padding: 0 18px;
 }
 
-.nav-link{
-    font-family: 'montserrat', sans-serif;
-    font-size: 1.2rem;
+.nav-link {
+  font-family: 'montserrat', sans-serif;
+  font-size: 1.2rem;
 }
 
 /* button */
-.mybtn{
-    margin: 5% 3% 5% 0%;
+.mybtn {
+  margin: 5% 3% 5% 0%;
 }
 /* titleimage */
-.titleimage{
-    width: 60%;
-    transform: rotate(25deg);
+.titleimage {
+  width: 60%;
+  transform: rotate(25deg);
 }
 
 /* section-features */
-#features{
-    padding: 7% 15%;
+#features {
+  padding: 7% 15%;
 }
 
-.feat-box{
-    text-align: center;
+.feat-box {
+  text-align: center;
 }
-.feat-box:hover{
-   font-size: larger;
-}
-
-.f-icon{
-    color: #ef8172;
-    margin-bottom: 10px;
+.feat-box:hover {
+  font-size: larger;
 }
 
-.f-icon:hover{
-    color: #ff4c68;
+.f-icon {
+  color: #ef8172;
+  margin-bottom: 10px;
+}
+
+.f-icon:hover {
+  color: #ff4c68;
 }
 
 /* testimonails section */
-#testimonials{
-    padding: 7% 15%;
-    text-align: center;
-    background-color: #ef8172;
-    color: #fff;
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
 }
-.happydog{
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
+.happydog {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
