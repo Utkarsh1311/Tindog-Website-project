@@ -144,3 +144,16 @@ p {
     transform: rotate(0);
   }
 }
+
+#cta{
+  height: 350px;
+  background-color: #ff4c68;
+  padding: 50px 230px;
+  text-align: center;
+}
+.cta-head{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 50px;
+}
