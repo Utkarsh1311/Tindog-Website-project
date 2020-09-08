@@ -133,3 +133,14 @@ p {
 .dog{
   font-weight: bolder;
 }
+
+@media (max-width: 1028px) {
+    #titles{
+      text-align: center;
+    }
+
+  .titleimage{
+    position: static;
+    transform: rotate(0);
+  }
+}
