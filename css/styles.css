@@ -118,3 +118,18 @@ p {
 .carousel-item{
   padding: 7% 15%;
 }
+
+/* pricing section */
+ 
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.price-col{
+  padding: 3% 2%;
+}
+
+.dog{
+  font-weight: bolder;
+}
