@@ -111,7 +111,6 @@ p {
   font-size: 1.5rem;
 }
 
-.feat-box {}
 
 .feat-box:hover {
   font-size: larger;
@@ -157,7 +156,7 @@ p {
   margin: 20px 40px 40px 40px;
 }
 
-.carousel-item {}
+
 
 /* pricing section */
 
@@ -182,22 +181,23 @@ p {
 @media (max-width: 1028px) {
   #titles {
     text-align: center;
-  }
+ }
+}
 
-  .titleimage {
+.titleimage {
     position: static;
     transform: rotate(0);
-  }
+}
 
 
-  .s-icon {
+.s-icon {
     margin: 20px 10px;
-  }
+}
 
-  .s-icon:hover {
-    transform: scale(1.5);
-  }
+.s-icon:hover {
+  transform: scale(1.5);
+}
 
-  .copyright {
-    padding-top: 10px;
-  }
+.copyright {
+  padding-top: 10px;
+}
