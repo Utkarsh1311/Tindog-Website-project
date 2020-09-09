@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6{
   font-family: "Montserrat", sans-serif;
 }
 
@@ -75,12 +75,6 @@ p {
 
 /* title */
 
-#titles {
-  text-align: left;
-}
-
-
-/* titleimage */
 .titleimage {
   width: 60%;
   transform: rotate(25deg);
@@ -90,6 +84,7 @@ p {
 
 #titles .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 
@@ -116,8 +111,7 @@ p {
   font-size: 1.5rem;
 }
 
-.feat-box {
-}
+.feat-box {}
 
 .feat-box:hover {
   font-size: larger;
@@ -137,11 +131,13 @@ p {
 #testimonials {
   background-color: #ef8172;
 }
+
 .testimonial-text {
   font-size: 3rem;
   line-height: 1.5;
   font-weight: bold;
 }
+
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
@@ -161,8 +157,7 @@ p {
   margin: 20px 40px 40px 40px;
 }
 
-.carousel-item {
-}
+.carousel-item {}
 
 /* pricing section */
 
@@ -193,20 +188,16 @@ p {
     position: static;
     transform: rotate(0);
   }
-}
 
-#cta {
-  background-color: #ff4c68;
-}
 
-.s-icon {
-  margin: 20px 10px;
-}
+  .s-icon {
+    margin: 20px 10px;
+  }
 
-.s-icon:hover {
-  transform: scale(1.5);
-}
+  .s-icon:hover {
+    transform: scale(1.5);
+  }
 
-.copyright {
-  padding-top: 10px;
-}
+  .copyright {
+    padding-top: 10px;
+  }
